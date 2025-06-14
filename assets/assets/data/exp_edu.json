@@ -1,0 +1,24 @@
+{
+  "exps": [
+    {
+      "title": "Diplôme d’ingénieur en Informatique et Cybersécurité",
+      "company": "Institut National des Sciences Appliquées Hauts-de-France",
+      "yearStart": "2022",
+      "monthStart": "Septembre",
+      "yearEnd": "2025",
+      "monthEnd": "Aout",
+      "description": [],
+      "logo": "assets/logos/insa.png"
+    },
+    {
+      "title": "Classes préparatoires PCSI - PSI",
+      "company": "Lycée Victor Hugo, Besançon",
+      "yearStart": "2020",
+      "monthStart": "Septembre",
+      "yearEnd": "2022",
+      "monthEnd": "Juillet",
+      "description": [],
+      "logo": "assets/logos/vh.png"
+    }
+  ]
+}

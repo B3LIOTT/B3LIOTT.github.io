@@ -1,0 +1,34 @@
+{
+  "exps": [
+    {
+      "title": "Stagiaire consultant cybersécurité",
+        "company": "Wavestone",
+        "yearStart": "2025",
+        "monthStart": "Mars",
+        "yearEnd": "2025",
+        "monthEnd": "Aout",
+        "description": ["Sensibilisation", "Politiques de sécurité", "Conformité NIS2", "Analyse de risques", "Developpement interne"],
+        "logo": "assets/logos/wavestone.png"
+    },
+    {
+      "title": "Développeur logiciel",
+      "company": "LAMIH CNRS 8201",
+      "yearStart": "2024",
+      "monthStart": "Février",
+      "yearEnd": "2024",
+      "monthEnd": "Août",
+      "description": ["Continuité du stage: développement, participation à la R&D, etc."],
+      "logo": "assets/logos/lamih.png"
+    },
+    {
+      "title": "Stagiaire développeur logiciel",
+      "company": "LAMIH CNRS 8201",
+      "yearStart": "2023",
+      "monthStart": "Septembre",
+      "yearEnd": "2024",
+      "monthEnd": "Février",
+      "description": ["Objectif : développement d’un proof of concept (PoC) pour un problème d’allocation de places de parking", "Développement mobile, résolution de problèmes/optimisation/graphes, Github/Jira"],
+      "logo": "assets/logos/lamih.png"
+    }
+  ]
+}
